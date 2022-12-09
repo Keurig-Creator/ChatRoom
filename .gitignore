@@ -29,3 +29,4 @@ out
 ./.idea
 ChatRoom.iml
 ./src/META-INF
+*.idea
