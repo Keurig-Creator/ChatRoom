@@ -26,3 +26,6 @@ hs_err_pid*
 out
 
 .DS_Store
+./.idea
+ChatRoom.iml
+./src/META-INF
