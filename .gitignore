@@ -30,3 +30,4 @@ out
 ChatRoom.iml
 ./src/META-INF
 *.idea
+**/.idea/workspace.xml **/.idea/tasks.xml
