@@ -35,8 +35,6 @@ public class ChatClient extends Thread {
     private String clientName;
     private BufferedReader in;
     private PrintWriter out;
-    private Selector selector;
-    private SocketChannel socketChannel;
 
     public ChatClient(String hostname, int port) {
         this.hostname = hostname;
